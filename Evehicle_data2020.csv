@@ -1,0 +1,213 @@
+﻿Model,Trans,Drive,Fuel,Stnd,Stnd Description,Veh Class,Air Pollution Score,City MPG,Hwy MPG,Cmb MPG,Greenhouse Gas Score,SmartWay,EV battery capacity,Charge point capacity,Charge point plug type,Number of days battery used,Charge Time(min)
+BYD e6,Auto-1,2WD,Electricity,B1,Federal Tier 2 Bin 1,small SUV,10,73,71,72,10,Elite,38.3 kWh,270 kW DC,Type 1,10,30
+CHEVROLET Bolt EV,CVT,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,station wagon,10,127,108,118,10,Elite,33.0 kWh,270 kW DC,Type 2,7,35
+CHEVROLET Bolt EV,CVT,2WD,Electricity,ZEV,California ZEV,station wagon,10,127,108,118,10,Elite,35.8 kWh,250 kW DC,Type 2,9,35
+HYUNDAI Ioniq Electric,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,145,121,133,10,Elite,38.3 kWh,230 kW,Type 3,10,25
+HYUNDAI Ioniq Electric,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,145,121,133,10,Elite,38.3 kWh,230 kW,Type 3,10,25
+HYUNDAI Kona Electric,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small SUV,10,132,108,120,10,Elite,38.3 kWh,230 kW,Type 2,10,30
+HYUNDAI Kona Electric,Auto-1,2WD,Electricity,ZEV,California ZEV,small SUV,10,132,108,120,10,Elite,38.3 kWh,230 kW,Type 2,10,30
+JAGUAR I-PACE,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,small SUV,10,80,72,76,10,Elite,90kWh ,100kW,Type 3,11,25
+JAGUAR I-PACE,Auto-1,4WD,Electricity,ZEV,California ZEV,small SUV,10,80,72,76,10,Elite,90kWh ,100kW,Type 3,11,25
+KIA Soul Electric,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,station wagon,10,127,101,114,10,Elite,33.0 kWh,100kW,Type 1,9,28
+KIA Soul Electric,Auto-1,2WD,Electricity,ZEV,California ZEV,station wagon,10,127,101,114,10,Elite,33.0 kWh,100kW,Type 1,9,28
+TESLA Model 3 Long Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,120,112,116,10,Elite,75.0 kWh,250 kW DC,Type 2,10,28
+TESLA Model 3 Long Range,Auto-1,4WD,Electricity,ZEV,California ZEV,midsize car,10,120,112,116,10,Elite,75.0 kWh,250 kW DC,Type 2,8,37
+"TESLA Model 3 Long Range Perform 18""",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,120,112,116,10,Elite,75.0 kWh,250 kW DC,Type 2,10,37
+"TESLA Model 3 Long Range Perform 18""",Auto-1,4WD,Electricity,ZEV,California ZEV,midsize car,10,120,112,116,10,Elite,75.0 kWh,250 kW DC,Type 2,10,21
+"TESLA Model 3 Long Range Perform 19""",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,119,112,116,10,Elite,75.0 kWh,250 kW DC,Type 3,10,22
+"TESLA Model 3 Long Range Perform 19""",Auto-1,4WD,Electricity,ZEV,California ZEV,midsize car,10,119,112,116,10,Elite,75.0 kWh,250 kW DC,Type 3,10,24
+"TESLA Model 3 Long Range Perform 20""",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,113,106,109,10,Elite,75.0 kWh,250 kW DC,Type 3,10,31
+"TESLA Model 3 Long Range Perform 20""",Auto-1,4WD,Electricity,ZEV,California ZEV,midsize car,10,113,106,109,10,Elite,75.0 kWh,250 kW DC,Type 3,10,22
+TESLA Model 3 Mid Range,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,128,117,123,10,Elite,75.0 kWh,130 kW DC,Type 2,8,30
+TESLA Model 3 Mid Range,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,128,117,123,10,Elite,75.0 kWh,130 kW DC,Type 2,10,36
+TESLA Model 3 Standard Range,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,138,124,131,10,Elite,75.0 kWh,250 kW DC,Type 3,10,35
+TESLA Model 3 Standard Range,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,138,124,131,10,Elite,75.0 kWh,250 kW DC,Type 3,10,21
+TESLA Model 3 Standard Range Plus,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,148,132,141,10,Elite,75.0 kWh,130 kW DC,Type 3,8,23
+TESLA Model 3 Standard Range Plus,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,148,132,141,10,Elite,75.0 kWh,130 kW DC,Type 3,10,29
+TESLA Model 4 Long Range,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,136,123,130,10,Elite,75.0 kWh,250 kW DC,Type 2,10,32
+TESLA Model 4 Long Range,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,136,123,130,10,Elite,75.0 kWh,250 kW DC,Type 2,10,30
+TESLA Model S Long Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,115,107,111,10,Elite,75.0 kWh,130 kW DC,Type 3,10,38
+TESLA Model S Long Range,Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,115,107,111,10,Elite,75.0 kWh,130 kW DC,Type 3,8,24
+"TESLA Model S Performance (19"")",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,104,104,104,10,Elite,75.0 kWh,250 kW DC,Type 3,10,20
+"TESLA Model S Performance (19"")",Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,104,104,104,10,Elite,75.0 kWh,250 kW DC,Type 3,10,35
+"TESLA Model S Performance (21"")",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,98,96,97,10,Elite,75.0 kWh,250 kW DC,Type 3,8,33
+"TESLA Model S Performance (21"")",Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,98,96,97,10,Elite,75.0 kWh,250 kW DC,Type 3,10,24
+TESLA Model S Standard Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,113,105,109,10,Elite,75.0 kWh,250 kW DC,Type 3,8,26
+TESLA Model S Standard Range,Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,113,105,109,10,Elite,75.0 kWh,250 kW DC,Type 3,10,38
+TESLA Model X Long Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,99,93,96,10,Elite,75.0 kWh,130 kW DC,Type 3,10,39
+TESLA Model X Long Range,Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,99,93,96,10,Elite,75.0 kWh,130 kW DC,Type 3,8,21
+"TESLA Model X Performance (20"")",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,90,89,90,10,Elite,75.0 kWh,250 kW DC,Type 3,10,21
+"TESLA Model X Performance (20"")",Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,90,89,90,10,Elite,75.0 kWh,250 kW DC,Type 3,8,32
+"TESLA Model X Performance (22"")",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,80,77,79,10,Elite,75.0 kWh,360,Type 1,10,29
+"TESLA Model X Performance (22"")",Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,80,77,79,10,Elite,75.0 kWh,360,Type 2,10,29
+TESLA Model X Standard Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,105,98,101,10,Elite,75.0 kWh,250 kW DC,Type 3,10,24
+TESLA Model X Standard Range,Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,105,98,101,10,Elite,75.0 kWh,250 kW DC,Type 3,8,
+VOLKSWAGEN e-Golf,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small car,10,122,104,113,10,Elite,35.8 kWh,40 kW DC,Type 2,7,36
+VOLKSWAGEN e-Golf,Auto-1,2WD,Electricity,ZEV,California ZEV,small car,10,122,104,113,10,Elite,35.8 kWh,40 kW DC,Type 2,7,36
+AUDI e-tron,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,74,73,74,10,Elite,93.4 kWh,270 kW DC,Type 2,9,21
+AUDI e-tron,Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,74,73,74,10,Elite,93.4 kWh,270 kW DC,Type 3,9,21
+BMW i3,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small car,10,124,102,113,10,Elite,42.2 kWh,350 kW DC,Type 2,10,36
+BMW i3,Auto-1,2WD,Electricity,ZEV,California ZEV,small car,10,124,102,113,10,Elite,42.2 kWh,350 kW DC,Type 3,10,36
+BMW i3s,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small car,10,124,102,113,10,Elite,42.2 kWh,350 kW DC,Type 2,8,32
+BMW i3s,Auto-1,2WD,Electricity,ZEV,California ZEV,small car,10,124,102,113,10,Elite,42.2 kWh,350 kW DC,Type 3,8,32
+BYD e6,Auto-1,2WD,Electricity,B1,Federal Tier 2 Bin 1,small SUV,10,73,71,72,10,Elite,42.2 kWh,230 kW,Type 1,10,30
+CHEVROLET Bolt EV,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,station wagon,10,128,110,119,10,Elite,38.3 kWh,350 kW DC,Type 3,10,30
+CHEVROLET Bolt EV,Auto-1,2WD,Electricity,ZEV,California ZEV,station wagon,10,128,110,119,10,Elite,38.3 kWh,350 kW DC,Type 3,10,30
+FIAT 500e,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small car,10,121,103,112,10,Elite,38.3 kWh,230 kW,Type 3,10,25
+FIAT 500e,Auto-1,2WD,Electricity,ZEV,California ZEV,small car,10,121,103,112,10,Elite,38.3 kWh,230 kW,Type 3,10,25
+HONDA Clarity,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,126,103,114,10,Elite,38.3 kWh,350 kW DC,Type 3,10,30
+HONDA Clarity,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,126,103,114,10,Elite,38.3 kWh,350 kW DC,Type 3,10,30
+HYUNDAI Ioniq Electric,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,150,122,136,10,Elite,38.3 kWh,230 kW,Type 2,10,30
+HYUNDAI Ioniq Electric,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,150,122,136,10,Elite,38.3 kWh,230 kW,Type 2,10,30
+HYUNDAI Kona Electric,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small SUV,10,132,108,120,10,Elite,38.3 kWh,130 kW DC,Type 2,8,38
+HYUNDAI Kona Electric,Auto-1,2WD,Electricity,ZEV,California ZEV,small SUV,10,132,108,120,10,Elite,38.3 kWh,130 kW DC,Type 2,8,38
+SMART EQ fortwo convertible,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small car,10,112,91,102,10,Elite,75.0 kWh,130 kW DC,Type 2,8,26
+SMART EQ fortwo convertible,Auto-1,2WD,Electricity,ZEV,California ZEV,small car,10,112,91,102,10,Elite,75.0 kWh,130 kW DC,Type 2,8,32
+SMART EQ fortwo coupe,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small car,10,124,94,108,10,Elite,75.0 kWh,250 kW DC,Type 3,10,30
+SMART EQ fortwo coupe,Auto-1,2WD,Electricity,ZEV,California ZEV,small car,10,124,94,108,10,Elite,75.0 kWh,250 kW DC,Type 3,10,34
+TESLA Model 3 Long Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,120,112,116,10,Elite,75.0 kWh,130 kW DC,Type 2,8,29
+TESLA Model 3 Long Range,Auto-1,4WD,Electricity,ZEV,California ZEV,midsize car,10,120,112,116,10,Elite,75.0 kWh,250 kW DC,Type 2,8,25
+TESLA Model 3 Long Range Performance,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,120,112,116,10,Elite,75.0 kWh,130 kW DC,Type 2,10,28
+TESLA Model 3 Long Range Performance,Auto-1,4WD,Electricity,ZEV,California ZEV,midsize car,10,120,112,116,10,Elite,75.0 kWh,130 kW DC,Type 2,10,21
+TESLA Model 3 Mid Range,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,128,117,123,10,Elite,75.0 kWh,250 kW DC,Type 2,8,31
+TESLA Model 3 Mid Range,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,128,117,123,10,Elite,75.0 kWh,250 kW DC,Type 2,8,28
+TESLA Model 3 Standard Range,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,138,124,131,10,Elite,75.0 kWh,130 kW DC,Type 3,10,37
+TESLA Model 3 Standard Range,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,138,124,131,10,Elite,75.0 kWh,130 kW DC,Type 3,10,37
+TESLA Model 3 Standard Range Plus,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,140,124,133,10,Elite,75.0 kWh,130 kW DC,Type 3,8,40
+TESLA Model 3 Standard Range Plus,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,140,124,133,10,Elite,75.0 kWh,130 kW DC,Type 3,8,33
+TESLA Model 4 Long Range,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,136,123,130,10,Elite,75.0 kWh,250 kW DC,Type 2,10,31
+TESLA Model 4 Long Range,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,136,123,130,10,Elite,75.0 kWh,250 kW DC,Type 2,10,40
+TESLA Model S 100D,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,101,102,102,10,Elite,38.3 kWh,350 kW DC,Type 3,10,35
+TESLA Model S 100D,Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,101,102,102,10,Elite,38.3 kWh,350 kW DC,Type 3,10,30
+TESLA Model S 75D,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,102,105,103,10,Elite,38.3 kWh,130 kW DC,Type 2,10,32
+TESLA Model S 75D,Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,102,105,103,10,Elite,38.3 kWh,130 kW DC,Type 2,10,32
+TESLA Model S Long Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,115,107,111,10,Elite,75.0 kWh,130 kW DC,Type 3,8,40
+TESLA Model S Long Range,Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,115,107,111,10,Elite,75.0 kWh,130 kW DC,Type 3,8,40
+"TESLA Model S Performance (19"")",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,104,104,104,10,Elite,75.0 kWh,250 kW DC,Type 3,10,20
+"TESLA Model S Performance (19"")",Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,104,104,104,10,Elite,75.0 kWh,250 kW DC,Type 3,10,36
+"TESLA Model S Performance (21"")",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,98,96,97,10,Elite,75.0 kWh,250 kW DC,Type 3,10,36
+"TESLA Model S Performance (21"")",Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,98,96,97,10,Elite,75.0 kWh,250 kW DC,Type 3,10,29
+TESLA Model S Standard Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,113,105,109,10,Elite,75.0 kWh,250 kW DC,Type 3,10,28
+TESLA Model S Standard Range,Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,113,105,109,10,Elite,75.0 kWh,250 kW DC,Type 3,10,25
+TESLA Model X 100D,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,86,89,87,10,Elite,42.2 kWh,130 kW DC,Type 2,8,20
+TESLA Model X 100D,Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,86,89,87,10,Elite,42.2 kWh,130 kW DC,Type 2,8,40
+TESLA Model X 75D,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,91,95,93,10,Elite,42.2 kWh,130 kW DC,Type 2,8,29
+TESLA Model X 75D,Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,91,95,93,10,Elite,42.2 kWh,130 kW DC,Type 2,8,26
+TESLA Model X Long Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,99,93,96,10,Elite,75.0 kWh,130 kW DC,Type 3,8,24
+TESLA Model X Long Range,Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,99,93,96,10,Elite,75.0 kWh,130 kW DC,Type 3,8,26
+TESLA Model X P100D,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,83,89,85,10,Elite,75.0 kWh,270 kW DC,Type 2,10,26
+TESLA Model X P100D,Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,83,89,85,10,Elite,75.0 kWh,270 kW DC,Type 2,10,36
+"TESLA Model X Performance (20"")",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,90,89,90,10,Elite,38.3 kWh,270 kW DC,Type 2,10,24
+"TESLA Model X Performance (20"")",Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,90,89,90,10,Elite,38.3 kWh,270 kW DC,Type 2,10,24
+"TESLA Model X Performance (22"")",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,80,77,79,10,Elite,38.3 kWh,130 kW DC,Type 3,10,27
+"TESLA Model X Performance (22"")",Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,80,77,79,10,Elite,38.3 kWh,130 kW DC,Type 3,10,25
+TESLA Model X Standard Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,105,98,101,10,Elite,38.3 kWh,250 kW DC,Type 2,9,39
+TESLA Model X Standard Range,Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,105,98,101,10,Elite,38.3 kWh,250 kW DC,Type 2,9,23
+VOLKSWAGEN e-Golf,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small car,10,126,111,119,10,Elite,35.8 kWh,230 kW,Type 2,7,36
+VOLKSWAGEN e-Golf,Auto-1,2WD,Electricity,ZEV,California ZEV,small car,10,126,111,119,10,Elite,35.8 kWh,230 kW,Type 2,7,36
+BYD e6,Auto-1,2WD,Electricity,B1,Federal Tier 2 Bin 1,small SUV,10,73,71,72,10,Elite,38.3 kWh,270 kW DC,Type 1,10,30
+CHEVROLET Bolt EV,CVT,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,station wagon,10,127,108,118,10,Elite,33.0 kWh,250 kW DC,Type 2,7,35
+CHEVROLET Bolt EV,CVT,2WD,Electricity,ZEV,California ZEV,station wagon,10,127,108,118,10,Elite,35.8 kWh,230 kW,Type 2,9,35
+HYUNDAI Ioniq Electric,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,145,121,133,10,Elite,38.3 kWh,270 kW DC,Type 3,10,25
+HYUNDAI Ioniq Electric,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,145,121,133,10,Elite,38.3 kWh,250 kW DC,Type 3,10,25
+HYUNDAI Kona Electric,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small SUV,10,132,108,120,10,Elite,38.3 kWh,250 kW DC,Type 2,10,30
+HYUNDAI Kona Electric,Auto-1,2WD,Electricity,ZEV,California ZEV,small SUV,10,132,108,120,10,Elite,38.3 kWh,250 kW DC,Type 2,10,30
+JAGUAR I-PACE,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,small SUV,10,80,72,76,10,Elite,90kWh ,130 kW DC,Type 3,11,25
+JAGUAR I-PACE,Auto-1,4WD,Electricity,ZEV,California ZEV,small SUV,10,80,72,76,10,Elite,90kWh ,130 kW DC,Type 3,11,25
+KIA Soul Electric,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,station wagon,10,127,101,114,10,Elite,33.0 kWh,130 kW DC,Type 1,9,28
+KIA Soul Electric,Auto-1,2WD,Electricity,ZEV,California ZEV,station wagon,10,127,101,114,10,Elite,33.0 kWh,130 kW DC,Type 1,9,28
+TESLA Model 3 Long Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,120,112,116,10,Elite,75.0 kWh,230 kW,Type 2,10,28
+TESLA Model 3 Long Range,Auto-1,4WD,Electricity,ZEV,California ZEV,midsize car,10,120,112,116,10,Elite,75.0 kWh,230 kW,Type 2,8,40
+"TESLA Model 3 Long Range Perform 18""",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,120,112,116,10,Elite,75.0 kWh,230 kW,Type 2,10,30
+"TESLA Model 3 Long Range Perform 18""",Auto-1,4WD,Electricity,ZEV,California ZEV,midsize car,10,120,112,116,10,Elite,75.0 kWh,230 kW,Type 2,10,27
+"TESLA Model 3 Long Range Perform 19""",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,119,112,116,10,Elite,75.0 kWh,230 kW,Type 3,10,33
+"TESLA Model 3 Long Range Perform 19""",Auto-1,4WD,Electricity,ZEV,California ZEV,midsize car,10,119,112,116,10,Elite,75.0 kWh,230 kW,Type 3,10,37
+"TESLA Model 3 Long Range Perform 20""",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,113,106,109,10,Elite,75.0 kWh,230 kW,Type 3,10,26
+"TESLA Model 3 Long Range Perform 20""",Auto-1,4WD,Electricity,ZEV,California ZEV,midsize car,10,113,106,109,10,Elite,75.0 kWh,230 kW,Type 3,10,22
+TESLA Model 3 Mid Range,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,128,117,123,10,Elite,75.0 kWh,100kW,Type 2,8,23
+TESLA Model 3 Mid Range,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,128,117,123,10,Elite,75.0 kWh,100kW,Type 2,10,30
+TESLA Model 3 Standard Range,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,138,124,131,10,Elite,75.0 kWh,230 kW,Type 3,10,26
+TESLA Model 3 Standard Range,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,138,124,131,10,Elite,75.0 kWh,230 kW,Type 3,10,30
+TESLA Model 3 Standard Range Plus,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,148,132,141,10,Elite,75.0 kWh,100kW,Type 3,8,37
+TESLA Model 3 Standard Range Plus,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,148,132,141,10,Elite,75.0 kWh,100kW,Type 3,10,29
+TESLA Model 4 Long Range,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,136,123,130,10,Elite,75.0 kWh,230 kW,Type 2,10,27
+TESLA Model 4 Long Range,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,136,123,130,10,Elite,75.0 kWh,230 kW,Type 2,10,21
+TESLA Model S Long Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,115,107,111,10,Elite,75.0 kWh,1,Type 3,10,31
+TESLA Model S Long Range,Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,115,107,111,10,Elite,75.0 kWh,100kW,Type 3,8,32
+"TESLA Model S Performance (19"")",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,104,104,104,10,Elite,75.0 kWh,230 kW,Type 3,10,20
+"TESLA Model S Performance (19"")",Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,104,104,104,10,Elite,75.0 kWh,270 kW DC,Type 3,10,26
+"TESLA Model S Performance (21"")",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,98,96,97,10,Elite,75.0 kWh,270 kW DC,Type 3,8,31
+"TESLA Model S Performance (21"")",Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,98,96,97,10,Elite,75.0 kWh,270 kW DC,Type 3,10,34
+TESLA Model S Standard Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,113,105,109,10,Elite,75.0 kWh,270 kW DC,Type 3,8,26
+TESLA Model S Standard Range,Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,113,105,109,10,Elite,75.0 kWh,230 kW,Type 3,10,30
+TESLA Model X Long Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,99,93,96,10,Elite,75.0 kWh,270 kW DC,Type 3,10,25
+TESLA Model X Long Range,Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,99,93,96,10,Elite,75.0 kWh,100kW,Type 3,8,35
+"TESLA Model X Performance (20"")",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,90,89,90,10,Elite,75.0 kWh,230 kW,Type 3,10,21
+"TESLA Model X Performance (20"")",Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,90,89,90,10,Elite,75.0 kWh,230 kW,Type 3,8,23
+"TESLA Model X Performance (22"")",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,80,77,79,10,Elite,75.0 kWh,350 kW DC,Type 1,10,30
+"TESLA Model X Performance (22"")",Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,80,77,79,10,Elite,75.0 kWh,350 kW DC,Type 2,10,37
+TESLA Model X Standard Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,105,98,101,10,Elite,75.0 kWh,230 kW,Type 3,10,21
+TESLA Model X Standard Range,Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,105,98,101,10,Elite,75.0 kWh,270 kW DC,Type 3,8,
+VOLKSWAGEN e-Golf,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small car,10,122,104,113,10,Elite,35.8 kWh,230 kW,Type 2,7,36
+VOLKSWAGEN e-Golf,Auto-1,2WD,Electricity,ZEV,California ZEV,small car,10,122,104,113,10,Elite,35.8 kWh,270 kW DC,Type 2,7,36
+AUDI e-tron,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,74,73,74,10,Elite,93.4 kWh,230 kW,Type 2,9,21
+AUDI e-tron,Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,74,73,74,10,Elite,93.4 kWh,270 kW DC,Type 3,9,21
+BMW i3,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small car,10,124,102,113,10,Elite,42.2 kWh,230 kW,Type 2,10,36
+BMW i3,Auto-1,2WD,Electricity,ZEV,California ZEV,small car,10,124,102,113,10,Elite,42.2 kWh,350 kW DC,Type 3,10,36
+BMW i3s,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small car,10,124,102,113,10,Elite,42.2 kWh,270 kW DC,Type 2,8,32
+BMW i3s,Auto-1,2WD,Electricity,ZEV,California ZEV,small car,10,124,102,113,10,Elite,42.2 kWh,270 kW DC,Type 3,8,32
+BYD e6,Auto-1,2WD,Electricity,B1,Federal Tier 2 Bin 1,small SUV,10,73,71,72,10,Elite,42.2 kWh,250 kW DC,Type 1,10,30
+CHEVROLET Bolt EV,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,station wagon,10,128,110,119,10,Elite,38.3 kWh,270 kW DC,Type 3,10,30
+CHEVROLET Bolt EV,Auto-1,2WD,Electricity,ZEV,California ZEV,station wagon,10,128,110,119,10,Elite,38.3 kWh,350 kW DC,Type 3,10,30
+FIAT 500e,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small car,10,121,103,112,10,Elite,38.3 kWh,230 kW,Type 3,10,25
+FIAT 500e,Auto-1,2WD,Electricity,ZEV,California ZEV,small car,10,121,103,112,10,Elite,38.3 kWh,250 kW DC,Type 3,10,25
+HONDA Clarity,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,126,103,114,10,Elite,38.3 kWh,350 kW DC,Type 3,10,30
+HONDA Clarity,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,126,103,114,10,Elite,38.3 kWh,350 kW DC,Type 3,10,30
+HYUNDAI Ioniq Electric,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,150,122,136,10,Elite,38.3 kWh,250 kW DC,Type 2,10,30
+HYUNDAI Ioniq Electric,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,150,122,136,10,Elite,38.3 kWh,230 kW,Type 2,10,30
+HYUNDAI Kona Electric,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small SUV,10,132,108,120,10,Elite,38.3 kWh,100kW,Type 2,8,38
+HYUNDAI Kona Electric,Auto-1,2WD,Electricity,ZEV,California ZEV,small SUV,10,132,108,120,10,Elite,38.3 kWh,130 kW DC,Type 2,8,38
+SMART EQ fortwo convertible,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small car,10,112,91,102,10,Elite,75.0 kWh,130 kW DC,Type 2,8,37
+SMART EQ fortwo convertible,Auto-1,2WD,Electricity,ZEV,California ZEV,small car,10,112,91,102,10,Elite,75.0 kWh,130 kW DC,Type 2,8,34
+SMART EQ fortwo coupe,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small car,10,124,94,108,10,Elite,75.0 kWh,250 kW DC,Type 3,10,25
+SMART EQ fortwo coupe,Auto-1,2WD,Electricity,ZEV,California ZEV,small car,10,124,94,108,10,Elite,75.0 kWh,250 kW DC,Type 3,10,28
+TESLA Model 3 Long Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,120,112,116,10,Elite,75.0 kWh,130 kW DC,Type 2,8,29
+TESLA Model 3 Long Range,Auto-1,4WD,Electricity,ZEV,California ZEV,midsize car,10,120,112,116,10,Elite,75.0 kWh,250 kW DC,Type 2,8,21
+TESLA Model 3 Long Range Performance,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,120,112,116,10,Elite,75.0 kWh,130 kW DC,Type 2,10,26
+TESLA Model 3 Long Range Performance,Auto-1,4WD,Electricity,ZEV,California ZEV,midsize car,10,120,112,116,10,Elite,75.0 kWh,130 kW DC,Type 2,10,30
+TESLA Model 3 Mid Range,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,128,117,123,10,Elite,75.0 kWh,250 kW DC,Type 2,8,29
+TESLA Model 3 Mid Range,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,128,117,123,10,Elite,75.0 kWh,250 kW DC,Type 2,8,28
+TESLA Model 3 Standard Range,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,138,124,131,10,Elite,75.0 kWh,130 kW DC,Type 3,10,34
+TESLA Model 3 Standard Range,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,138,124,131,10,Elite,75.0 kWh,130 kW DC,Type 3,10,26
+TESLA Model 3 Standard Range Plus,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,140,124,133,10,Elite,75.0 kWh,130 kW DC,Type 3,8,23
+TESLA Model 3 Standard Range Plus,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,140,124,133,10,Elite,75.0 kWh,130 kW DC,Type 3,8,20
+TESLA Model 4 Long Range,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,midsize car,10,136,123,130,10,Elite,75.0 kWh,250 kW DC,Type 2,10,30
+TESLA Model 4 Long Range,Auto-1,2WD,Electricity,ZEV,California ZEV,midsize car,10,136,123,130,10,Elite,75.0 kWh,250 kW DC,Type 2,10,24
+TESLA Model S 100D,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,101,102,102,10,Elite,38.3 kWh,350 kW DC,Type 3,10,35
+TESLA Model S 100D,Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,101,102,102,10,Elite,38.3 kWh,350 kW DC,Type 3,10,30
+TESLA Model S 75D,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,102,105,103,10,Elite,38.3 kWh,130 kW DC,Type 2,10,32
+TESLA Model S 75D,Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,102,105,103,10,Elite,38.3 kWh,130 kW DC,Type 2,10,32
+TESLA Model S Long Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,115,107,111,10,Elite,75.0 kWh,130 kW DC,Type 3,8,20
+TESLA Model S Long Range,Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,115,107,111,10,Elite,75.0 kWh,130 kW DC,Type 3,8,40
+"TESLA Model S Performance (19"")",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,104,104,104,10,Elite,75.0 kWh,250 kW DC,Type 3,10,34
+"TESLA Model S Performance (19"")",Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,104,104,104,10,Elite,75.0 kWh,250 kW DC,Type 3,10,32
+"TESLA Model S Performance (21"")",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,98,96,97,10,Elite,75.0 kWh,250 kW DC,Type 3,10,33
+"TESLA Model S Performance (21"")",Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,98,96,97,10,Elite,75.0 kWh,250 kW DC,Type 3,10,30
+TESLA Model S Standard Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,large car,10,113,105,109,10,Elite,75.0 kWh,250 kW DC,Type 3,10,38
+TESLA Model S Standard Range,Auto-1,4WD,Electricity,ZEV,California ZEV,large car,10,113,105,109,10,Elite,75.0 kWh,250 kW DC,Type 3,10,25
+TESLA Model X 100D,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,86,89,87,10,Elite,42.2 kWh,130 kW DC,Type 2,8,33
+TESLA Model X 100D,Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,86,89,87,10,Elite,42.2 kWh,130 kW DC,Type 2,8,23
+TESLA Model X 75D,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,91,95,93,10,Elite,42.2 kWh,130 kW DC,Type 2,8,36
+TESLA Model X 75D,Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,91,95,93,10,Elite,42.2 kWh,130 kW DC,Type 2,8,39
+TESLA Model X Long Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,99,93,96,10,Elite,75.0 kWh,130 kW DC,Type 3,8,26
+TESLA Model X Long Range,Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,99,93,96,10,Elite,75.0 kWh,130 kW DC,Type 3,8,38
+TESLA Model X P100D,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,83,89,85,10,Elite,75.0 kWh,270 kW DC,Type 2,10,35
+TESLA Model X P100D,Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,83,89,85,10,Elite,75.0 kWh,270 kW DC,Type 2,10,35
+"TESLA Model X Performance (20"")",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,90,89,90,10,Elite,38.3 kWh,270 kW DC,Type 2,10,38
+"TESLA Model X Performance (20"")",Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,90,89,90,10,Elite,38.3 kWh,270 kW DC,Type 2,10,39
+"TESLA Model X Performance (22"")",Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,80,77,79,10,Elite,38.3 kWh,130 kW DC,Type 3,10,25
+"TESLA Model X Performance (22"")",Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,80,77,79,10,Elite,38.3 kWh,130 kW DC,Type 3,10,34
+TESLA Model X Standard Range,Auto-1,4WD,Electricity,T3B0,Federal Tier 3 Bin 0,standard SUV,10,105,98,101,10,Elite,38.3 kWh,250 kW DC,Type 2,9,37
+TESLA Model X Standard Range,Auto-1,4WD,Electricity,ZEV,California ZEV,standard SUV,10,105,98,101,10,Elite,38.3 kWh,250 kW DC,Type 2,9,22
+VOLKSWAGEN e-Golf,Auto-1,2WD,Electricity,T3B0,Federal Tier 3 Bin 0,small car,10,126,111,119,10,Elite,35.8 kWh,230 kW,Type 2,7,36
+VOLKSWAGEN e-Golf,Auto-1,2WD,Electricity,ZEV,California ZEV,small car,10,126,111,119,10,Elite,35.8 kWh,230 kW,Type 2,7,36
